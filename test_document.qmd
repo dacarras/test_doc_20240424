@@ -9,6 +9,7 @@ author:
 date-modified: last-modified
 format:
   html:
+    theme: journal
     code-overflow: wrap
     code-line-numbers: true
     code-annotations: below
