@@ -17,7 +17,7 @@ format:
     embed-resources: true
     grid:
       sidebar-width: 250px
-      body-width: 950px
+      body-width: 1050px # 950px for thinner width
       margin-width: 400px
       gutter-width: 1.5rem
     header-includes: |
@@ -93,3 +93,9 @@ xlab('effect size') +
 ylab('satistical power')
 
 ```
+
+# Test titles
+
+## A second subtitle
+
+### And A third subtitle
