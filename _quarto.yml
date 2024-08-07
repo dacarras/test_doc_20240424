@@ -5,3 +5,17 @@ project:
 format:
   html:
     theme: journal
+    code-overflow: wrap
+    code-line-numbers: true
+    code-annotations: below
+    code-link: true
+    embed-resources: true
+    grid:
+      sidebar-width: 250px
+      body-width: 950px
+      margin-width: 400px
+      gutter-width: 1.5rem
+mainfont: Noto Sans
+monofont: Source Code Pro
+monofontoptions: 
+  - Scale = 0.75

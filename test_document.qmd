@@ -1,5 +1,5 @@
 ---
-title: "Test document"
+title: "Test document 0:39"
 subtitle: "statistical power for samples sizes from 10 to 500"
 toc: true
 toc-expand: true
